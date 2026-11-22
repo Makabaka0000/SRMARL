@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: marl_cav",
+            "type": "debugpy-old",
+            "request": "launch",
+            "program": "${file}",
+            "python": "C:\\Users\\Jingjia\\.conda\\envs\\marl_cav\\python.exe",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
